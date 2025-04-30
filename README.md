@@ -38,7 +38,5 @@ To run the codes:
 
 ## Folder Structure
 
-<pre> ## Folder Structure ``` IS-Codes/ ├── .gitattributes # Git configuration file ├── README.md # Project documentation ├── pr1 - AND, OR, XOR.cpp # Practical 1: Bitwise encryption using AND, OR, XOR (C++) ├── pr2 - Rail Fence Cipher.py # Practical 2: Rail Fence Cipher (Python) ├── pr3 - DES.java # Practical 3: DES Algorithm (Java) ├── pr4 - RSA.py # Practical 4: RSA Algorithm (Python) └── Practical 5/ # Practical 5: Diffie-Hellman Key Exchange ├── index.html # HTML interface for key exchange simulation └── script.js # JavaScript logic for Diffie-Hellman ``` </pre>
----
 
 Created and maintained by **codewithyaars**
