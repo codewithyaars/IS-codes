@@ -36,7 +36,6 @@ To run the codes:
 - Navigate to the respective files/folders.
 - For **Practical 5**, open the `index.html` file in a modern web browser.
 
-## Folder Structure
 
 
 Created and maintained by **codewithyaars**
